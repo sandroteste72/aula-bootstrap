@@ -1,0 +1,39 @@
+.navbar{
+    background-color: #2ECCFA;
+}
+
+.container-fluid {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.quem-somos {
+    background-color: #E6F8E0;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.parceiros {
+    background-color: #fcbc78;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.parceiros h3 {
+    padding-bottom: 2%;
+}
+
+.servicos {
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+.servicos h3 {
+    padding-bottom: 3%;
+}
+
+.footer {
+    background-color: #d778fc;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
